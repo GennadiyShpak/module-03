@@ -22,6 +22,10 @@ li {
     font-size: 14px;
 }
 
+/* li:hover {
+    color: #03a9f4;
+} */
+
 h2 {
     color: #626262;
     font-family: "Playfair Display";
@@ -57,12 +61,12 @@ span {
     text-transform: uppercase;
 }
 
-.first-word {
-    color: #03a9f4;
-}
-
 .nav-li {
     color: #626262;
+}
+
+.nav-li:hover {
+    color: #03a9f4;
 }
 
 .first_a {
