@@ -58,16 +58,6 @@ span {
   text-transform: uppercase;
 }
 
-.col-1 {
-  height: 280px;
-  width: 420px;
-}
-
-.col-2 {
-  height: 280px;
-  width: 419px;
-}
-
 .nav-li {
   color: #626262;
 }
