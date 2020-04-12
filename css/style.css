@@ -1,3 +1,7 @@
+header {
+  margin: 77px 0px 0px 163px;
+}
+
 .wrapper {
   max-width: 900px;
   width: 100%;
@@ -9,7 +13,6 @@ nav {
 }
 
 ul {
-  margin: 77px 0px 0px 163px;
   padding: 0px;
 }
 
@@ -23,6 +26,9 @@ li {
   font-size: 14px;
 }
 
+img {
+  display: block;
+}
 h2 {
   color: #626262;
   font-family: 'Playfair Display';
