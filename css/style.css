@@ -1,150 +1,153 @@
- .wrapper {
-     max-width: 900px;
-     width: 100%;
-     margin: 0 auto;
- }
+.wrapper {
+  max-width: 900px;
+  width: 100%;
+  margin: 0 auto;
+}
 
- nav {
-     font-size: 0px;
- }
+nav {
+  font-size: 0px;
+}
 
- ul {
-     margin: 77px 0px 0px 163px;
-     padding: 0px;
- }
+ul {
+  margin: 77px 0px 0px 163px;
+  padding: 0px;
+}
 
+.nav_menu li:last-child {
+  margin-right: 0px;
+}
 
- li {
-     display: inline-block;
-     text-transform: uppercase;
-     font-size: 14px;
- }
+li {
+  display: inline-block;
+  text-transform: uppercase;
+  font-size: 14px;
+}
 
- h2 {
-     color: #626262;
-     font-family: "Playfair Display";
-     font-size: 30px;
-     font-weight: 400;
- }
+h2 {
+  color: #626262;
+  font-family: 'Playfair Display';
+  font-size: 30px;
+  font-weight: 400;
+}
 
- h3 {
-     font-family: 'Ubuntu', sans-serif;
-     color: #b4ad9e;
-     font-family: Ubuntu;
-     font-size: 14px;
-     font-weight: 300;
-     text-transform: uppercase;
- }
+h3 {
+  font-family: 'Ubuntu', sans-serif;
+  color: #b4ad9e;
+  font-family: Ubuntu;
+  font-size: 14px;
+  font-weight: 300;
+  text-transform: uppercase;
+}
 
- a {
-     text-decoration: none;
- }
+a {
+  text-decoration: none;
+}
 
- button {
-     padding: 21px 34px 22px 34px;
-     border: solid 1px;
-     color: #626262;
-     font-family: "Playfair Display";
-     font-size: 20px;
-     font-weight: 400;
-     line-height: 24px;
-     background-color: #ffffff;
- }
+button {
+  padding: 21px 34px 22px 34px;
+  border: solid 1px;
+  color: #626262;
+  font-family: 'Playfair Display';
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+  background-color: #ffffff;
+}
 
- span {
-     text-transform: uppercase;
- }
+span {
+  text-transform: uppercase;
+}
 
- .col-1 {
-     height: 280px;
-     width: 420px;
- }
+.col-1 {
+  height: 280px;
+  width: 420px;
+}
 
- .col-2 {
-     height: 280px;
-     width: 419px;
- }
+.col-2 {
+  height: 280px;
+  width: 419px;
+}
 
- .nav-li {
-     color: #626262;
- }
+.nav-li {
+  color: #626262;
+}
 
- .nav-li:hover {
-     color: #03a9f4;
- }
+.nav-li:hover {
+  color: #03a9f4;
+}
 
- .first_a {
-     padding-right: 121px;
- }
+.first_a {
+  padding-right: 121px;
+}
 
- .second_a {
-     padding-right: 103px;
- }
+.second_a {
+  padding-right: 103px;
+}
 
- .third_a {
-     padding-right: 95px;
- }
+.third_a {
+  padding-right: 95px;
+}
 
- .first-article {
-     margin-top: 104px;
- }
+.first-article {
+  margin-top: 104px;
+}
 
- .col-1_line-1 {
-     max-width: 420px;
-     display: inline-block;
-     width: 50%;
- }
+.col-1_line-1 {
+  max-width: 420px;
+  display: inline-block;
+  width: 50%;
+}
 
- .col-2_line-1 {
-     max-width: 420px;
-     display: inline-block;
-     width: 50%;
-     margin-left: 56px;
- }
+.col-2_line-1 {
+  max-width: 420px;
+  display: inline-block;
+  width: 50%;
+  margin-left: 56px;
+}
 
- .text {
-     text-align: left;
-     color: #626262;
-     font-family: "Playfair Display";
-     font-size: 14px;
-     font-weight: 400;
-     line-height: 24px;
- }
+.text {
+  text-align: left;
+  color: #626262;
+  font-family: 'Playfair Display';
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
 
- .second-article {
-     margin-top: 132px;
- }
+.second-article {
+  margin-top: 132px;
+}
 
- .col-1_line-2 {
-     max-width: 420px;
-     display: inline-block;
-     width: 50%;
- }
+.col-1_line-2 {
+  max-width: 420px;
+  display: inline-block;
+  width: 50%;
+}
 
- .col-2_line-2 {
-     max-width: 420px;
-     display: inline-block;
-     width: 50%;
-     margin-left: 56px;
- }
+.col-2_line-2 {
+  max-width: 420px;
+  display: inline-block;
+  width: 50%;
+  margin-left: 56px;
+}
 
- .third-article {
-     margin-top: 138px;
- }
+.third-article {
+  margin-top: 138px;
+}
 
- .col-1_line-3 {
-     max-width: 420px;
-     display: inline-block;
-     width: 50%;
- }
+.col-1_line-3 {
+  max-width: 420px;
+  display: inline-block;
+  width: 50%;
+}
 
- .col-2_line-3 {
-     max-width: 420px;
-     display: inline-block;
-     width: 50%;
-     margin-left: 56px;
- }
+.col-2_line-3 {
+  max-width: 420px;
+  display: inline-block;
+  width: 50%;
+  margin-left: 56px;
+}
 
- .button {
-     margin: 75px 0px 92px 358px;
- }
+.button {
+  margin: 75px 0px 92px 358px;
+}
