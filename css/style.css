@@ -106,7 +106,7 @@ span {
   margin-bottom: 135px;
 }
 
-main div:nth-child(odd) {
+main div:nth-child(odd):nth-child(-n + 5) {
   margin-right: 60px;
 }
 
