@@ -125,4 +125,5 @@ main div:nth-last-child {
 .load_button {
   text-align: center;
   padding-bottom: 70px;
+  margin-right: 0px;
 }
