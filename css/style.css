@@ -3,7 +3,8 @@ body {
 }
 
 header {
-  padding: 77px 0px 0px 163px;
+  padding-top: 77px;
+  text-align: center;
 }
 
 .wrapper {
@@ -15,10 +16,6 @@ header {
 nav {
   font-size: 0px;
   padding-bottom: 103px;
-}
-
-ul {
-  padding: 0px;
 }
 
 li {
@@ -72,7 +69,7 @@ span {
   text-transform: uppercase;
 }
 
-.nav_menu li:nth-child(-n + 3) {
+.nav_menu li {
   padding-right: 105px;
 }
 
@@ -106,7 +103,7 @@ span {
   margin-bottom: 135px;
 }
 
-main div:nth-child(odd):nth-child(-n + 5) {
+main div:nth-child(odd) {
   margin-right: 60px;
 }
 
