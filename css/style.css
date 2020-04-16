@@ -69,12 +69,8 @@ span {
   text-transform: uppercase;
 }
 
-.nav_menu li {
+.nav_menu li:not(:nth-last-child(1)) {
   padding-right: 105px;
-}
-
-.nav_menu li:nth-last-child {
-  margin-right: 0px;
 }
 
 .nav-li {
@@ -85,10 +81,11 @@ span {
   color: #03a9f4;
 }
 
-.article {
+article {
   max-width: 420px;
   display: inline-block;
   width: 50%;
+  margin-bottom: 135px;
 }
 
 .text {
@@ -99,11 +96,7 @@ span {
   line-height: 24px;
 }
 
-.article {
-  margin-bottom: 135px;
-}
-
-main div:nth-child(odd) {
+main article:nth-child(odd) {
   margin-right: 60px;
 }
 
